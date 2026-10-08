@@ -1,0 +1,16 @@
+{
+  "name": "bedrock-afk-bot",
+  "version": "1.0.0",
+  "description": "Minecraft Bedrock AFK bot for Render",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=24"
+  },
+  "dependencies": {
+    "bedrock-protocol": "^3.60.1",
+    "express": "^5.1.0"
+  }
+}
